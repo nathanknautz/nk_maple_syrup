@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["nate.knautz@gmail.com"]
 
   spec.summary       = "its a gem for when you eat pancakes"
-  spec.description   = "you put this on top of the pancakes so that it makes them tasty"
+  spec.description   = "you put this on top of the pancakes so that it makes them tasty, but really it just says 'ooooo' so thats cool too."
   spec.homepage      = "TODO: Put your gem's website or public repo URL here."
   spec.license       = "MIT"
 
