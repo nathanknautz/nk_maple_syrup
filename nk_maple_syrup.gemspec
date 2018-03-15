@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "its a gem for when you eat pancakes"
   spec.description   = "you put this on top of the pancakes so that it makes them tasty, but really it just says 'ooooo' so thats cool too."
-  spec.homepage      = "github.com/nathanknautz/nk_maple_syrup"
+  spec.homepage      = "https://www.github.com/nathanknautz/nk_maple_syrup"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
